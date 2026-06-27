@@ -1,6 +1,6 @@
 # Deque Data Structure Implementation
 
-Developed as a group project for the **Data Structures** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr), this project implements a double-ended queue (Deque) data structure in Java, allowing for efficient insertion and deletion of elements at both ends of the queue.
+Developed as a group project for the **Data Structures** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://dit.hua.gr), this project implements a double-ended queue (Deque) data structure in Java, allowing for efficient insertion and deletion of elements at both ends of the queue.
 The implementation supports both basic operations like push, pop, and size, as well as iterator functionality for traversing the elements in normal and reverse order.
 It also includes automatic resizing of the underlying array when necessary.
 
